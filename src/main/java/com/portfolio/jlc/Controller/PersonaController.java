@@ -29,9 +29,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class PersonaController {
     @Autowired IPersonaService ipersonaService;
     
-    @GetMapping("/personas/traer/perfil")
-    public Persona findPersona() {
-        return ipersonaService.findPersona((long)1);
+    @GetMapping("/personas/traer/perfil/{id}")
+    public Persona findPersona(@PathVariable Long id) {
+        return ipersonaService.findPersona(id);
     }
     
     
