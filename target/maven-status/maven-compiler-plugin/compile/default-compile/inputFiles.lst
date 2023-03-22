@@ -1,11 +1,14 @@
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Controller\Mensaje.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Dto\LoginUsuario.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Dto\NuevoUsuario.java
+C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Dto\dtoHys.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Dto\JwtDto.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Repository\REducacion.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Repository\iUsuarioRepository.java
+C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Service\Shys.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Enums\RolNombre.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Repository\iRolRepository.java
+C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Controller\CHys.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\jwt\JwtTokenFilter.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Entity\Rol.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Entity\Persona.java
@@ -17,6 +20,7 @@ C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Securi
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Controller\AuthController.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Controller\CExperiencia.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Service\UsuarioService.java
+C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Repository\Rhys.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Controller\PersonaController.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Entity\UsuarioPrincipal.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Repository\IPersonaRepository.java
@@ -25,6 +29,7 @@ C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Dto\dt
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Repository\RExperiencia.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Entity\Usuario.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\jwt\JwtProvider.java
+C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Entity\hys.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\jwt\JwtEntryPoint.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Dto\dtoExperiencia.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Service\RolService.java
