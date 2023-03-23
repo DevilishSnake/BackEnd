@@ -9,6 +9,7 @@ C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Servic
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Enums\RolNombre.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Repository\iRolRepository.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Controller\CHys.java
+C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Dto\dtoPersona.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\jwt\JwtTokenFilter.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Entity\Rol.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Entity\Persona.java
@@ -33,7 +34,6 @@ C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Entity
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\jwt\JwtEntryPoint.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Dto\dtoExperiencia.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Service\RolService.java
-C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Interface\IPersonaService.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Security\Service\UserDetailsImpl.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Entity\Educacion.java
 C:\Users\Joan\Desktop\ArgPrograma\BackEnd\src\main\java\com\portfolio\jlc\Service\SExperiencia.java

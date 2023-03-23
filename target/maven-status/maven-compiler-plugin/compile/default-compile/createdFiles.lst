@@ -11,11 +11,11 @@ com\portfolio\jlc\Security\Enums\RolNombre.class
 com\portfolio\jlc\Dto\dtoEducacion.class
 com\portfolio\jlc\Dto\dtoExperiencia.class
 com\portfolio\jlc\Service\SExperiencia.class
-com\portfolio\jlc\Interface\IPersonaService.class
 com\portfolio\jlc\Service\Shys.class
 com\portfolio\jlc\Service\ImpPersonaService.class
 com\portfolio\jlc\Security\MainSecurity.class
 com\portfolio\jlc\Controller\PersonaController.class
+com\portfolio\jlc\Dto\dtoPersona.class
 com\portfolio\jlc\Security\Entity\Rol.class
 com\portfolio\jlc\Repository\RExperiencia.class
 com\portfolio\jlc\Service\Seducacion.class
